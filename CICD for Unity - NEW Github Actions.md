@@ -75,7 +75,10 @@ run個幾分鐘
 
 12. 修改main.yml  只在
 ![5](.pict/2021-12-29_173937.png)
-14. d
+要記得把範例的設定下載下來
+<https://github.com/Solias99/GithubActions-UnityDemo>
+14. push to github
+
 15. 
 
 =======
