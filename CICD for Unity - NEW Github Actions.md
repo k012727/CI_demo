@@ -21,12 +21,13 @@ CICD for Unity - NEW Github Actions
 2. 在本地端新增.gitignore
 
 3. 內容要google "gitignore.io"
-https://www.toptal.com/developers/gitignore
-輸入"Unity" 搜尋
+<https://www.toptal.com/developers/gitignore>
+輸入"Unity" 搜尋範例複製
 
 4. 新增.gitignore 貼上code
 
 5. 建立local端git 連結github
+<<<<<<< HEAD
 
 6. git
 ```
@@ -42,9 +43,19 @@ git push -u origin main
 設置git Action
 ------
 1. 新增.github資料夾 在裡面建立 workfloews資料夾
-https://game.ci/docs/github/activation
+<https://game.ci/docs/github/activation>
 
-2. 2. 
-3. 3. 
-4. 41
+2. 2
+![1](.pict/2021-12-29_164719.png)
+3. 到<https://game.ci/docs/github/activation> 複製Acquiring an activation file
+新增activation.yml
+```
+touch activation.yml
+```
+打開activation.yml
+將Acquiring an activation file的code貼上
+4. push to github
+
+=======
+
 
