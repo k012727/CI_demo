@@ -28,15 +28,23 @@ https://www.toptal.com/developers/gitignore
 
 5. 建立local端git 連結github
 
-6. 
-
+6. git
+```
 git init
-'''
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin github連結
+git push -u origin main
+```
 
-設置git action
+
+設置git Action
 ------
+1. 新增.github資料夾 在裡面建立 workfloews資料夾
+https://game.ci/docs/github/activation
 
-
-
-l l l 
+2. 2. 
+3. 3. 
+4. 41
 
