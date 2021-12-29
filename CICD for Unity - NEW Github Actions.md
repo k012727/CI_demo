@@ -55,6 +55,23 @@ touch activation.yml
 打開activation.yml
 將Acquiring an activation file的code貼上
 4. push to github
+5. 到github Action run workflow
+![2](.pict/2021-12-29_171223.png)
+run個幾分鐘
+![3](.pict/2021-12-29_171544.png)
+完成後點進去可以下載 .alf
+6. and then open the .alf copy the key
+7. 到github ->setting -> secrets
+新增一個UNITY_LICENSE
+把value 貼上.alf的內容
+9. 接下來到GAME CI 的Builder最底下Complete example複製
+<https://game.ci/docs/github/builder>
+11. 到workflows 新增main.yml貼上
+
+![4](.pict/2021-12-29_171844.png)
+ - Check acrion
+ 	+ clone master分支
+ - 
 
 =======
 
