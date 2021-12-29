@@ -12,8 +12,7 @@ https://www.toptal.com/developers/gitignore
 4. 新增.gitignore 貼上code
 
 5. 建立local端git 連結github
-
-6. 
 ```
 git init
+git add .
 ```
